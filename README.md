@@ -39,10 +39,10 @@ python main.py
 # 三、服务器内配置及使用
 ## 1.配置
 打开服务牌的插件配置文件夹（Pcc_limbo_system）,打开config.yml找到以下项
-'''yml
+···yml
 #ChatGPT的后端服务器ip
 ip: http://htyuty.top
-'''
+···
 将ip更改为你前面搭建的chatgpt服务器的ip
 ## 2.使用
 输入指令/chat 问题 即可
