@@ -1,4 +1,5 @@
-提示：这是关于PCC-Pration-Tools的**ChatGPT后端**搭建的说明，如果要查看的是PCC-Pration-Tools，请点击[链接](https://github.com/73410/PCC-Pration-Tools)
+> [!TIP]
+> 这是关于PCC-Pration-Tools的**ChatGPT后端**搭建的说明，如果要查看的是PCC-Pration-Tools，请点击[链接](https://github.com/73410/PCC-Pration-Tools)
 # 一.说明
 调用openai官方的付费api，国内用户必须**翻墙**才能用。
 如遇到bug或问题请上传issues
